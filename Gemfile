@@ -29,6 +29,8 @@ gem "jbuilder"
 
 #added semantic ui gem - imran
 gem 'semantic-ui-sass'
+gem "bcrypt", "~> 3.1.7"
+gem 'hirb' 
 
 
 # Use Redis adapter to run Action Cable in production
